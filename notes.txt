@@ -1,0 +1,19 @@
+the next.config.js file was created in order to use next.js 
+
+npm install @heroicons/react
+
+
+md stands for medium screen 
+the default css is mobile first then desktop
+
+
+npm install react-responsive-carousel
+
+Next.js is a server side rendering, it sits between the server and web page; prepares the page and serves it to
+the browser. The advantage is that there is no loading. When the page loads all the data is already there. 
+Next.js allows server side rendering 
+
+npm i react currency-currency-formatter;
+
+
+in Product.js line-clamp-2 shorten the description
